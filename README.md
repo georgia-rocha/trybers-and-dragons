@@ -1,6 +1,6 @@
-# Boas vindas ao repositório do projeto Trybers and Dragons!
+# Boas vindas ao repositório do projeto Trybers and Dragons! ☘️
 
- ## O que foi desenvolvido  👨‍💻 
+ ## O que foi desenvolvido 🚀
 
   Foi desenvolvido a estrutura de um jogos de `RPG` (_Role Playing Game_) com intuito de aplicar os princípios da arquitetura `SOLID` e os princípios de `POO`.
 
